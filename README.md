@@ -35,7 +35,7 @@ Le registre IATI n'heberge pas les fichiers de données produits par les donneur
 Au 09/03/2017, des fichiers au format XML sont produits par le système d'information de l'AFD - un fichier par pays (60 fichiers) - et sont envoyés manuellement sur le portail Open data du gouvernement: [http://data.gouv.fr/](http://data.gouv.fr/).
 Il faut ensuite enregistrer un par un les liens dans le registre de l'IATI à partir de leur portail. 
 
-**Recommandation:** concatener les 60 fichiers en un seul afin de réduire le nombre d'opération à faire manuellement, ou bien utiliser un script qui envoie les liens via l'API du portail. Il existe une fonctione qui permet de télécharger les liens (dans un CSV) de l'ensemble des fichiers afin de les mettre à jours sur le registre.
+**Recommandation:** concatener les 60 fichiers en un seul afin de réduire le nombre d'opération à faire manuellement, ou bien utiliser un script qui envoie les liens via l'API du portail. Il existe une fonction qui permet de télécharger les liens (dans un CSV) de l'ensemble des fichiers afin de les mettre à jours sur le registre.
 
 <br>
 
