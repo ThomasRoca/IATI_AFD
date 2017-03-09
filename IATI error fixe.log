@@ -1,0 +1,2301 @@
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-144706/fr-AFD-AF.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-144706/fr-AFD-AF.xml
+----------
+Original:fr-AFD-AF.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-AF.xml- Status:8 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-144622/fr-AFD-BD.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-144622/fr-AFD-BD.xml
+----------
+Original:fr-AFD-BD.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-BD.xml- Status:4 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152820/fr-AFD-BF.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152820/fr-AFD-BF.xml
+----------
+Original:fr-AFD-BF.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-BF.xml- Status:22 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151539/fr-AFD-BR.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151539/fr-AFD-BR.xml
+----------
+Original:fr-AFD-BR.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-BR.xml- Status:7 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-153209/fr-AFD-BJ.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-153209/fr-AFD-BJ.xml
+----------
+Original:fr-AFD-BJ.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-BJ.xml- Status:24 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151614/fr-AFD-BO.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151614/fr-AFD-BO.xml
+----------
+Original:fr-AFD-BO.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:      <coordinates latitude="" longitude="" precision="3" />
+
+Error n°5 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:      <coordinates latitude="" longitude="" precision="3" />
+
+Error n°8 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:      <coordinates latitude="" longitude="" precision="3" />
+
+----------
+Original:fr-AFD-BO.xml- Status:10 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161217-150251/fr-AFD-BR.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161217-150251/fr-AFD-BR.xml
+----------
+Original:fr-AFD-BR.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-BR.xml- Status:7 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-153339/fr-AFD-CD.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-153339/fr-AFD-CD.xml
+----------
+Original:fr-AFD-CD.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-CD.xml- Status:17 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-153400/fr-AFD-CF.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-153400/fr-AFD-CF.xml
+----------
+Original:fr-AFD-CF.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-CF.xml- Status:13 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-101707/fr-AFD-CG.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-101707/fr-AFD-CG.xml
+----------
+Original:fr-AFD-CG.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°25 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°26 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°27 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-CG.xml- Status:27 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-101646/fr-AFD-CI.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-101646/fr-AFD-CI.xml
+----------
+Original:fr-AFD-CI.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-CI.xml- Status:24 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152610/fr-AFD-CM.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152610/fr-AFD-CM.xml
+----------
+Original:fr-AFD-CM.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°25 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°26 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°27 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°28 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°29 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°30 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°31 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°32 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°33 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-CM.xml- Status:33 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-100925/fr-AFD-CN.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-100925/fr-AFD-CN.xml
+----------
+Original:fr-AFD-CN.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-CN.xml- Status:12 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151413/fr-AFD-CO.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151413/fr-AFD-CO.xml
+----------
+Original:fr-AFD-CO.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-CO.xml- Status:6 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151327/fr-AFD-CV.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151327/fr-AFD-CV.xml
+----------
+Original:fr-AFD-CV.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-CV.xml- Status:4 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154725/fr-AFD-DJ.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154725/fr-AFD-DJ.xml
+----------
+Original:fr-AFD-DJ.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-DJ.xml- Status:10 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151303/fr-AFD-DO.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151303/fr-AFD-DO.xml
+----------
+Original:fr-AFD-DO.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-DO.xml- Status:4 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151231/fr-AFD-EC.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151231/fr-AFD-EC.xml
+----------
+Original:fr-AFD-EC.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:      <coordinates latitude="" longitude="" precision="3" />
+
+----------
+Original:fr-AFD-EC.xml- Status:3 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152541/fr-AFD-EG.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152541/fr-AFD-EG.xml
+----------
+Original:fr-AFD-EG.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-EG.xml- Status:17 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150757/fr-AFD-ET.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150757/fr-AFD-ET.xml
+----------
+Original:fr-AFD-ET.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-ET.xml- Status:19 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150720/fr-AFD-GA.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150720/fr-AFD-GA.xml
+----------
+Original:fr-AFD-GA.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-GA.xml- Status:10 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-102238/fr-AFD-GH.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-102238/fr-AFD-GH.xml
+----------
+Original:fr-AFD-GH.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-GH.xml- Status:12 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-101904/fr-AFD-GN.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-101904/fr-AFD-GN.xml
+----------
+Original:fr-AFD-GN.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-GN.xml- Status:23 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-100637/fr-AFD-HT.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-100637/fr-AFD-HT.xml
+----------
+Original:fr-AFD-HT.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-HT.xml- Status:16 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145152/fr-AFD-ID.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145152/fr-AFD-ID.xml
+----------
+Original:fr-AFD-ID.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-ID.xml- Status:2 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150600/fr-AFD-IN.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150600/fr-AFD-IN.xml
+----------
+Original:fr-AFD-IN.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-IN.xml- Status:11 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152501/fr-AFD-JO.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152501/fr-AFD-JO.xml
+----------
+Original:fr-AFD-JO.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-JO.xml- Status:9 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150532/fr-AFD-KE.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150532/fr-AFD-KE.xml
+----------
+Original:fr-AFD-KE.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-KE.xml- Status:24 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-144537/fr-AFD-KH.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-144537/fr-AFD-KH.xml
+----------
+Original:fr-AFD-KH.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-KH.xml- Status:20 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-153838/fr-AFD-KM.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-153838/fr-AFD-KM.xml
+----------
+Original:fr-AFD-KM.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-KM.xml- Status:10 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150445/fr-AFD-LA.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150445/fr-AFD-LA.xml
+----------
+Original:fr-AFD-LA.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-LA.xml- Status:12 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152412/fr-AFD-LB.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152412/fr-AFD-LB.xml
+----------
+Original:fr-AFD-LB.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-LB.xml- Status:11 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150350/fr-AFD-LK.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150350/fr-AFD-LK.xml
+----------
+Original:fr-AFD-LK.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-LK.xml- Status:10 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152335/fr-AFD-MA.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152335/fr-AFD-MA.xml
+----------
+Original:fr-AFD-MA.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°25 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°26 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°27 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°28 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°29 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°30 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°31 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°32 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°33 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-MA.xml- Status:33 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160630-103002/fr-AFD-MG.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160630-103002/fr-AFD-MG.xml
+----------
+Original:fr-AFD-MG.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°25 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°26 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°27 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°28 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°29 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°30 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°31 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°32 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°33 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°34 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°35 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°36 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°37 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°38 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°39 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°40 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°41 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°42 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°43 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°44 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°45 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°46 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°47 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°48 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°49 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°50 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°51 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°52 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°53 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-MG.xml- Status:53 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154234/fr-AFD-ML.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154234/fr-AFD-ML.xml
+----------
+Original:fr-AFD-ML.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°25 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°26 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°27 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°28 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°29 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°30 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°31 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°32 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°33 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°34 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°35 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°36 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°37 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°38 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°39 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°40 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°41 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°42 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°43 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°44 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°45 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°46 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°47 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°48 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°49 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°50 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°51 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°52 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°53 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°54 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°55 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°56 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-ML.xml- Status:56 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154319/fr-AFD-MR.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154319/fr-AFD-MR.xml
+----------
+Original:fr-AFD-MR.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°25 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-MR.xml- Status:25 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152304/fr-AFD-MU.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152304/fr-AFD-MU.xml
+----------
+Original:fr-AFD-MU.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-MU.xml- Status:4 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152224/fr-AFD-MZ.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152224/fr-AFD-MZ.xml
+----------
+Original:fr-AFD-MZ.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-MZ.xml- Status:15 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154433/fr-AFD-NE.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154433/fr-AFD-NE.xml
+----------
+Original:fr-AFD-NE.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°25 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-NE.xml- Status:25 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152108/fr-AFD-NG.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152108/fr-AFD-NG.xml
+----------
+Original:fr-AFD-NG.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-NG.xml- Status:18 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-144420/fr-AFD-PH.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-144420/fr-AFD-PH.xml
+----------
+Original:fr-AFD-PH.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-PH.xml- Status:2 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150024/fr-AFD-PK.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-150024/fr-AFD-PK.xml
+----------
+Original:fr-AFD-PK.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-PK.xml- Status:2 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152041/fr-AFD-PS.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152041/fr-AFD-PS.xml
+----------
+Original:fr-AFD-PS.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°25 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°26 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°27 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°28 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°29 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°30 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-PS.xml- Status:30 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152000/fr-AFD-RW.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-152000/fr-AFD-RW.xml
+----------
+Original:fr-AFD-RW.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-RW.xml- Status:1 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145913/fr-AFD-SC.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145913/fr-AFD-SC.xml
+----------
+Original:fr-AFD-SC.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-SC.xml- Status:1 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-100106/fr-AFD-SD.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-100106/fr-AFD-SD.xml
+----------
+Original:fr-AFD-SD.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-SD.xml- Status:1 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145112/fr-AFD-SL.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145112/fr-AFD-SL.xml
+----------
+Original:fr-AFD-SL.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-SL.xml- Status:1 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154539/fr-AFD-SN.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154539/fr-AFD-SN.xml
+----------
+Original:fr-AFD-SN.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°25 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°26 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°27 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°28 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°29 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°30 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°31 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°32 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°33 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°34 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°35 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°36 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°37 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°38 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°39 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°40 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°41 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°42 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°43 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°44 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-SN.xml- Status:44 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145728/fr-AFD-SR.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145728/fr-AFD-SR.xml
+----------
+Original:fr-AFD-SR.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-SR.xml- Status:2 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145523/fr-AFD-ST.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145523/fr-AFD-ST.xml
+----------
+Original:fr-AFD-ST.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-ST.xml- Status:1 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-095337/fr-AFD-SY.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-095337/fr-AFD-SY.xml
+----------
+Original:fr-AFD-SY.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-SY.xml- Status:1 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154859/fr-AFD-TD.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154859/fr-AFD-TD.xml
+----------
+Original:fr-AFD-TD.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°25 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-TD.xml- Status:25 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154637/fr-AFD-TG.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-154637/fr-AFD-TG.xml
+----------
+Original:fr-AFD-TG.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-TG.xml- Status:16 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151915/fr-AFD-TN.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151915/fr-AFD-TN.xml
+----------
+Original:fr-AFD-TN.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°22 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°23 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°24 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°25 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°26 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°27 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°28 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°29 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°30 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°31 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°32 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°33 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°34 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°35 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-TN.xml- Status:35 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151827/fr-AFD-TR.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151827/fr-AFD-TR.xml
+----------
+Original:fr-AFD-TR.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-TR.xml- Status:4 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145432/fr-AFD-TZ.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145432/fr-AFD-TZ.xml
+----------
+Original:fr-AFD-TZ.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-TZ.xml- Status:4 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151730/fr-AFD-UG.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151730/fr-AFD-UG.xml
+----------
+Original:fr-AFD-UG.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="start-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-UG.xml- Status:11 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145359/fr-AFD-VN.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-145359/fr-AFD-VN.xml
+----------
+Original:fr-AFD-VN.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°4 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°5 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°6 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°7 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°8 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°9 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°10 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°11 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°12 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°13 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°14 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°15 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°16 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°17 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°18 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°19 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°20 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°21 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-VN.xml- Status:21 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151645/fr-AFD-ZM.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20161216-151645/fr-AFD-ZM.xml
+----------
+Original:fr-AFD-ZM.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°2 was:    <activity-date type="end-planned" iso-date="" />
+
+Error n°3 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-ZM.xml- Status:3 Errors Repaired, file saved
+--------- 
+---- Process ----- 
+XML file to be checked = https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-095829/fr-AFD-ZW.xml
+Link to IATI validator= http://validator.iatistandard.org/?url=https://www.data.gouv.fr/s/resources/donnees-de-laide-au-developpement-de-lafd-1/20160930-095829/fr-AFD-ZW.xml
+----------
+Original:fr-AFD-ZW.xml- Status: downloaded
+----------
+Error n°1 was:    <activity-date type="end-planned" iso-date="" />
+
+----------
+Original:fr-AFD-ZW.xml- Status:1 Errors Repaired, file saved
+--------- 
