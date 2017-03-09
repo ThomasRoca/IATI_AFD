@@ -60,7 +60,7 @@ Afin de réparer ces erreurs, j'ai écris un script python afin de:
 - Supprimer les lignes contenants ces champs vides
 - Reécrire les fichiers XML et les sauvegarder dans un dossier séparer afin de les uploader de nouvaux.
 
-Ce script est disponible sur [Github](https://github.com/ThomasRoca/IATI_AFD)
+Ce script est disponible sur ce dossier [Github](https://github.com/ThomasRoca/IATI_AFD/blob/master/IATI%20files%20fixer%20Github.ipynb)
 
 Un test avec l'outil validator a été effectué sur le fichier: [fr-AFD-AF.xml](
 http://validator.iatistandard.org/?url=http://stats4dev.com/test/fr-AFD-AF.xml)
