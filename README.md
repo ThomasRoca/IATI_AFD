@@ -7,7 +7,6 @@
 <br>
 ![](http://www.aidtransparency.net/annualreport2015/images/furniture/logo.png)
 
-
 <br>
 --
 
