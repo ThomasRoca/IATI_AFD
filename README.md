@@ -14,7 +14,7 @@
 ### A propos de l'IATI
 
 L'Initiative International sur la Transparence de l'Aide a pour ambition de créer un standard de publication de données sur l'aide au développement afin de faciliter le partage d'information, la transparence et la redevabilité des acteurs du développement. L'IATI est aussi une communauté de donneurs et d'organisation de la société civile.
-Un [registre](http://iatistandard.org/) est maintenu et permet à tous d'acceder dans un format commun, aux actions, aux montant engagés dans le passé mais aussi  les montants prévus. En cela, l'ITAI se différencie du CAD de l'OCDE qui publie les données d'Aide Publique au Développement avec près de 2 ans de retard, ce qui pour IATI ne permet aux décideurs des pays partenaires de prendre des décisions d'investissement.
+Un [registre](http://iatistandard.org/) est maintenu et permet à tous d'acceder dans un format commun, aux actions, aux montant engagés dans le passé mais aussi aux montants prévus. En cela, l'ITAI se différencie du CAD de l'OCDE qui publie les données d'Aide Publique au Développement avec près de 2 ans de retard, ce qui pour IATI ne permet aux décideurs des pays partenaires de prendre des décisions d'investissement.
 
 Des outils sont développés par le secretariat : 
 
