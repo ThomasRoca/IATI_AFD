@@ -58,7 +58,7 @@ Afin de réparer ces erreurs, j'ai écris un script python afin de:
 - Télécharger les fichiers originaux et les sauvegarder;
 - Lire les fichiers et identifier les champs vides;
 - Supprimer les lignes contenants ces champs vides;
-- Reécrire les fichiers XML et les sauvegarder dans un dossier séparer afin de les uploader de nouvaux.
+- Reécrire les fichiers XML et les sauvegarder dans un dossier séparer afin de les uploader de nouveau.
 
 Ce script est disponible sur ce dossier [Github](https://github.com/ThomasRoca/IATI_AFD/blob/master/IATI%20files%20fixer%20Github.ipynb)
 
